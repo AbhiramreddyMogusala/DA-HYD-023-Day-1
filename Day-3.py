@@ -63,8 +63,8 @@ print(5+3)
 print(5-3)
 print(5*3)
 print(5/3)#Float value
-#Float Division (Integer division) -->returns quotient
-
+#Floor Division (Integer division) -->returns quotient
+print(5//3)
 #Modulus -->divisible rules -->returns remainder
 print(5%3)
 #power (exponential)
