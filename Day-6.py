@@ -63,7 +63,7 @@ for i in range(11):
     print(f'Now the result is {result}')
 print(f'Sum of 10 numbers is {result}')'''
 
-'''
+
 result =0 #target variables
 for i in range(21):
     if i%2 == 0:
@@ -88,7 +88,7 @@ for day in work_log:
     else:
         current_streak = 0 #streak breaks
 print(f'Longest Streak is {longest_streak}')
-
+'''
 
 
 

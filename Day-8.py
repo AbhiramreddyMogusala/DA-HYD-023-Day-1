@@ -81,7 +81,7 @@ print(ord('5'))
 print(max(name))
 print(chr(98))
 print(sorted(name)) #return a list by sorting all elements
-'''
+
 #Methods on strings --> case-conversions, finding/searching...
 name = 'codeGnan data'
 #case-conversion -->upper(),lower(),title(),capitalize()
@@ -101,7 +101,7 @@ print(d)
 
 for i in range(65,91):
     print(chr(i),end = ' ')
-
+'''
 
 
 

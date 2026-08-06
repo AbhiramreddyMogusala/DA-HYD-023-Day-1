@@ -33,7 +33,7 @@ print("Special characters:", special)
 email = input().split()
 for mail in email:
     print(mail.split('@')[1])
-'''
+
 
 
 

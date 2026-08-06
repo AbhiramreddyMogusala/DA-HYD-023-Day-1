@@ -84,14 +84,14 @@ print(name,batch,sep='----->')
 print(name,batch,end='\t')
 print(a,b,end='')
 print('Hyderabad')
-'''
+
 name = 'Codegnan'; batch = 'DA-023';place='Hyderabad'
 #Usage of commas
 print(batch, 'is in', name)#variables and msg to be separated by comma
 print(name,'is in', place, 'age is', age, 'years')
 #Old style formatting --->%d--->integer,%s--->string,%f-->float
 salary = 25000
-    
+ '''   
 
 
 
